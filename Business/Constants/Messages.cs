@@ -36,5 +36,8 @@ namespace Business.Constants
         public static string RentalCarNotAvailable = "Kiralanacak araba daha teslim edilmemiş.";
         public static string FailedRentalDelete = "Teslim edilmemiş araç için kayıt silinemez.";
         public static string PasswordError = "Password Wrong";
+
+
+        public static string AuthorizationDenied = "You don't have authorized ";
     }
 }
